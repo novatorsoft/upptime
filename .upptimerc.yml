@@ -8,6 +8,24 @@ sites:
   - name: "Novatorsoft CMS"
     url: $NOVATORSOFT_CMS_URL
 
+  - name: "Novatorsoft OS"
+    url: $NOVATORSOFT_OS_URL
+
+  - name: "Novatorsoft Plane"
+    url: $NOVATORSOFT_PLANE_URL
+
+  - name: "Novatorsoft Kimai"
+    url: $NOVATORSOFT_KIMAI_URL
+
+  - name: "IK Website"
+    url: https://ismetkizgin.com/
+
+  - name: "IK CV"
+    url: https://cv.ismetkizgin.com.tr
+
+  - name: "IK Admin"
+    url: $IK_ADMIN_URL
+
 status-website:
   baseUrl: /
   logoUrl: https://icons.duckduckgo.com/ip3/novatorsoft.com.ico
