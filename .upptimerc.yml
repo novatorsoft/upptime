@@ -26,6 +26,31 @@ sites:
   - name: "IK Admin"
     url: $IK_ADMIN_URL
 
+  - name: "IK API"
+    url: $IK_API_URL
+
+  - name: "IK Export Service"
+    url: $IK_EXPORT_SERVICE_URL
+    expectedStatusCodes:
+      - 404
+
+  - name: "IK Search Service"
+    url: $IK_SEARCH_SERVICE_URL
+
+  - name: "IK Redirect Service"
+    url: $IK_REDIRECT_SERVICE_URL
+
+  - name: "IK Sentiment Analysis Service"
+    url: $IK_SENTIMENT_ANALYSIS_SERVICE
+    expectedStatusCodes:
+      - 403
+
+  - name: "IK Services"
+    url: $IK_SERVICES_URL
+
+  - name: "Cihat Kılıç Pilates Studio"
+    url: https://cihatkilicpilatesstudio.com/
+
 status-website:
   baseUrl: /
   logoUrl: https://icons.duckduckgo.com/ip3/novatorsoft.com.ico
