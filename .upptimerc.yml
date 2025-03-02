@@ -36,6 +36,8 @@ sites:
 
   - name: "IK Search Service"
     url: $IK_SEARCH_SERVICE_URL
+    expectedStatusCodes:
+      - 200
 
   - name: "IK Redirect Service"
     url: $IK_REDIRECT_SERVICE_URL
