@@ -1,7 +1,7 @@
 url: $IK_SEARCH_SERVICE_URL
-status: down
+status: up
 code: 403
-responseTime: 600
-lastUpdated: 2025-03-02T04:03:49.916Z
+responseTime: 580
+lastUpdated: 2025-03-02T12:59:59.223Z
 startTime: 2025-03-02T03:36:06.554Z
 generator: Upptime <https://github.com/upptime/upptime>
