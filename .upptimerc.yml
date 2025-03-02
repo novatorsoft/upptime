@@ -58,6 +58,6 @@ status-website:
   name: Novatorsoft
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/novatorsoft/upptime
