@@ -60,8 +60,11 @@ status-website:
   logoUrl: https://icons.duckduckgo.com/ip3/novatorsoft.com.ico
   favicon: https://icons.duckduckgo.com/ip3/novatorsoft.com.ico
   name: Novatorsoft
+  metaTags:
+    - name: "robots"
+      content: "noindex"
   navbar:
-    - title: Status
-      href: /upptime
+    - title: Website
+      href: https://novatorsoft.com/
     - title: GitHub
       href: https://github.com/novatorsoft/upptime
