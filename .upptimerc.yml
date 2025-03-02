@@ -56,7 +56,7 @@ sites:
     url: https://cihatkilicpilatesstudio.com/
 
 status-website:
-  baseUrl: /
+  baseUrl: /upptime
   logoUrl: https://icons.duckduckgo.com/ip3/novatorsoft.com.ico
   favicon: https://icons.duckduckgo.com/ip3/novatorsoft.com.ico
   name: Novatorsoft
