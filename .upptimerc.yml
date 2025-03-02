@@ -32,12 +32,12 @@ sites:
   - name: "IK Export Service"
     url: $IK_EXPORT_SERVICE_URL
     expectedStatusCodes:
-      - 404
+      - 403
 
   - name: "IK Search Service"
     url: $IK_SEARCH_SERVICE_URL
     expectedStatusCodes:
-      - 200
+      - 403
 
   - name: "IK Redirect Service"
     url: $IK_REDIRECT_SERVICE_URL
@@ -49,6 +49,8 @@ sites:
 
   - name: "IK Services"
     url: $IK_SERVICES_URL
+    expectedStatusCodes:
+      - 403
 
   - name: "Cihat Kılıç Pilates Studio"
     url: https://cihatkilicpilatesstudio.com/
