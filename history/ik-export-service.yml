@@ -1,7 +1,7 @@
 url: $IK_EXPORT_SERVICE_URL
-status: down
+status: up
 code: 403
-responseTime: 919
-lastUpdated: 2025-03-02T04:03:48.904Z
+responseTime: 590
+lastUpdated: 2025-03-02T12:59:58.218Z
 startTime: 2025-03-02T03:36:05.218Z
 generator: Upptime <https://github.com/upptime/upptime>
