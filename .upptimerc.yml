@@ -5,6 +5,9 @@ sites:
   - name: "Novatorsoft Website"
     url: https://novatorsoft.com/
 
+  - name: "Novatorsoft CMS"
+    url: $NOVATORSOFT_CMS_URL
+
 status-website:
   baseUrl: /
   logoUrl: https://icons.duckduckgo.com/ip3/novatorsoft.com.ico
