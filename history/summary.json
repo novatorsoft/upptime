@@ -94,19 +94,19 @@
     "url": "https://ismetkizgin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ismetkizgin.com.ico",
     "slug": "ik-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 693,
-    "timeDay": 640,
-    "timeWeek": 663,
-    "timeMonth": 694,
-    "timeYear": 693,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 692,
+    "timeDay": 638,
+    "timeWeek": 660,
+    "timeMonth": 692,
+    "timeYear": 692,
     "dailyMinutesDown": {
-      "2025-04-26": 1
+      "2025-04-26": 11
     }
   },
   {
