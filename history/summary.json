@@ -4,36 +4,40 @@
     "url": "https://novatorsoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/novatorsoft.com.ico",
     "slug": "novatorsoft-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1646,
-    "timeDay": 1433,
-    "timeWeek": 1494,
-    "timeMonth": 1553,
-    "timeYear": 1646,
-    "dailyMinutesDown": {}
+    "time": 1639,
+    "timeDay": 1211,
+    "timeWeek": 1431,
+    "timeMonth": 1536,
+    "timeYear": 1639,
+    "dailyMinutesDown": {
+      "2025-06-03": 0
+    }
   },
   {
     "name": "Novatorsoft CMS",
     "url": "$NOVATORSOFT_CMS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "novatorsoft-cms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 470,
-    "timeDay": 373,
-    "timeWeek": 477,
-    "timeMonth": 471,
+    "timeDay": 463,
+    "timeWeek": 486,
+    "timeMonth": 473,
     "timeYear": 470,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-03": 0
+    }
   },
   {
     "name": "Novatorsoft OS",
