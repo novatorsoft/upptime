@@ -1,7 +1,7 @@
 url: $IK_SENTIMENT_ANALYSIS_SERVICE
 status: up
 code: 403
-responseTime: 777
-lastUpdated: 2025-06-13T23:14:53.394Z
+responseTime: 500
+lastUpdated: 2025-06-14T23:14:36.798Z
 startTime: 2025-03-02T03:36:08.255Z
 generator: Upptime <https://github.com/upptime/upptime>
