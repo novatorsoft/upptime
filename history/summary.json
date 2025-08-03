@@ -64,17 +64,17 @@
     "slug": "novatorsoft-plane",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 584,
-    "timeDay": 604,
-    "timeWeek": 613,
-    "timeMonth": 566,
+    "timeDay": 571,
+    "timeWeek": 604,
+    "timeMonth": 565,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2025-08-03": 0
+      "2025-08-03": 7
     }
   },
   {
