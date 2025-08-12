@@ -1,7 +1,7 @@
 url: $NOVATORSOFT_PLANE_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-12T08:22:45.064Z
+status: up
+code: 200
+responseTime: 713
+lastUpdated: 2025-08-12T08:45:33.937Z
 startTime: 2025-03-02T03:20:30.540Z
 generator: Upptime <https://github.com/upptime/upptime>
