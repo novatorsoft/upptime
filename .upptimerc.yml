@@ -55,6 +55,12 @@ sites:
   - name: "Cihat Kılıç Pilates Studio"
     url: https://cihatkilicpilatesstudio.com/
 
+  - name: "Teget Kimya"
+    url: https://tegetkimya.com/
+
+  - name: "Teget Kimya CMS"
+    url: $TEGET_KIMYA_CMS_URL
+
 status-website:
   baseUrl: /upptime
   logoUrl: https://icons.duckduckgo.com/ip3/novatorsoft.com.ico
