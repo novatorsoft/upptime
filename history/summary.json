@@ -291,19 +291,19 @@
     "url": "https://tegetkimya.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tegetkimya.com.ico",
     "slug": "teget-kimya",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2410,
-    "timeDay": 2386,
-    "timeWeek": 2410,
-    "timeMonth": 2410,
-    "timeYear": 2410,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 2449,
+    "timeDay": 2497,
+    "timeWeek": 2449,
+    "timeMonth": 2449,
+    "timeYear": 2449,
     "dailyMinutesDown": {
-      "2025-08-27": 0
+      "2025-08-27": 8
     }
   },
   {
