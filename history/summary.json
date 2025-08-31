@@ -292,9 +292,9 @@
     "url": "https://tegetkimya.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tegetkimya.com.ico",
     "slug": "teget-kimya",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -303,7 +303,9 @@
     "timeWeek": 2205,
     "timeMonth": 2205,
     "timeYear": 2205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-31": 0
+    }
   },
   {
     "name": "Teget Kimya CMS",
